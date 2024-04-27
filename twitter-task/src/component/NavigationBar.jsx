@@ -1,4 +1,3 @@
-// Navigation Bar Component
 export default function NavigationBar() {
     return (
       <nav className="navigation">
